@@ -15,7 +15,9 @@ Allows you to preview Ember Client without being in the testing team.
 - it should launch now, and you should be in the world selectino screen already
 
 ## multiplayer
-- pause game -> multiplayer
+- you cant.
+
+ ## login
 - also you cant login unless you edit the accounts.json file yourself
 
 ## legal
