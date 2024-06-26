@@ -1,3 +1,5 @@
+# Credits
+Credits to refactoring!!
 # Ember-Client-Crack
 Allows you to preview Ember Client without being in the testing team.
 
@@ -17,4 +19,4 @@ Allows you to preview Ember Client without being in the testing team.
 - also you cant login unless you edit the accounts.json file yourself
 
 ## legal
-ember plz dm if you want this taken down 🙏 (refactoring. on discord)
+ember plz dm if you want this taken down 🙏 (hitblocking on discord)
